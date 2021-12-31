@@ -1,6 +1,7 @@
 # Database structure
 
-![image](https://user-images.githubusercontent.com/12132894/147816280-72b83441-23a2-4568-bbdd-7f2084381092.png)
+![image](https://user-images.githubusercontent.com/12132894/147816883-5e2d4e1a-c97d-465c-9104-a4dc4a7d746e.png)
+
 
 
 
